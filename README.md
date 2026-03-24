@@ -6,4 +6,4 @@ My name is Imran, and I am an Applied Engineer interested in all things Python a
 - 🌱 Experienced in EDA, predictive modelling, and data-driven insights, including projects delivering £11M ROI and monthly revenue growth of £2,500 
 - 👯 I am looking to apply my Data Science and AI skills to solve real-world tech and business problems
 - ⚡ Fun fact: Quick learner, adaptable, and always keen to explore innovative solutions
-   - connect with me @https://www.linkedin.com/in/imran00286
+ - connect with me @https://www.linkedin.com/in/imran00286
