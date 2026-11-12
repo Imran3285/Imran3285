@@ -2,8 +2,8 @@
 
 My name is Imran, and I am a Data Scientist interested in all things Python and AI
 
+- 📊 Currently own 44K+ LUMS alumni records and write SQL queries to segment and score alumni on engagement, identify mentors, donors and speakers, and support international delegations and university events
 - 📈 Learning to manage large datasets with AI tools and statistical analysis to deliver business insights for senior management
-- 📊 Delivered sustainability and retail analytics solutions, driving £11M in infrastructure ROI and £2,500+ in revenue growth
-- 🤖 Improved telecom customer targeting by increasing conversion from 19% to 65% and eliminating 7,700 unnecessary calls
-- 🎯 Focused on applying data science and ML to solve real-world business and technology problems with measurable impact
+- 🎯 Delivered sustainability and retail analytics solutions, supporting £11M of active travel investment and showing £2,500+ in monthly revenue potential
+- 🏥 Focused on applying data science and AI skills to solve hospital problems, improve patient services and support better planning
 - 💡 Fun fact: Quick learner, adaptable, and always keen to explore innovative ideas
