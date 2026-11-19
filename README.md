@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Imran, and I am a Data Scientist interested in all things Python and AI
+My name is Imran, and I am a Data Analyst interested in all things Python and AI
 
 - 📊 Own 44K+ LUMS alumni records: clean and enrich the data, handle SQL data requests from multiple university departments, and build engagement scores and Power BI reports to identify mentors and support alumni reunions and international event outreach
 - 📈 Advancing my skills in AI-driven analytics to turn large, complex data into actionable business insights for senior management
